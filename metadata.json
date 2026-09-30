@@ -1,0 +1,6 @@
+{
+  "name": "LearningVN - C++ Algorithms HSGQG",
+  "description": "Nền tảng học thuật toán C++ nâng cao cho HSGQG với lý thuyết chi tiết, mô phỏng trực quan từng bước và bài tập thi đấu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
